@@ -1,0 +1,1 @@
+For /L %%i in (1,1,10) do (sqlite3 LSH_backup.db<LSH_backup.bat)
